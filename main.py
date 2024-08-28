@@ -1,9 +1,6 @@
 import streamlit as st
-# from langchain_core.messages import AIMessage, HumanMessage, SystemMessage
 import prompts as pt
 import initiate_connections as ic
-import menu as mn
-menu_string = mn.menu_summary_load()
 from langchain.prompts import ChatPromptTemplate
 from langchain.schema.output_parser import StrOutputParser
 
@@ -11,7 +8,7 @@ from langchain.schema.output_parser import StrOutputParser
 # streamlit page configuration
 st.set_page_config(
     page_title="Happy Meals",
-    page_icon="🗺️",
+    page_icon="🍕🍕",
     layout="centered"
 )
 
@@ -20,7 +17,7 @@ if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
 
 # streamlit page title
-st.title("🗺️ Happy Meals")
+st.title("🍕🍕 Happy Meals")
 # streamlit page image
 st.image(ic.working_dir + "/" + "Media" + "/" + "food_bgd.png", use_column_width = "auto")
 
