@@ -2,6 +2,6 @@ groq==0.9.0
 streamlit==1.37.0
 langchain==0.2.14
 langchain-groq==0.1.9
-menu
-initiate_connections
-prompts
+menu.py
+initiate_connections.py
+prompts.py
