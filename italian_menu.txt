@@ -1,0 +1,62 @@
+**Menu Summary**
+
+The menu is divided into three sections: Breakfast, Lunch, and Dinner. Here is a summary of the menu items, without duplicates:
+
+**Breakfast Menu**
+
+* Italian-Style Breakfast: Scrambled eggs, Italian sausage, and mozzarella cheese ($8.99)
+* Cappuccino and Cornetto: A classic Italian breakfast combo ($4.99)
+* Breakfast Panino: Scrambled eggs, prosciutto, and mozzarella cheese on a toasted baguette ($7.99)
+* Italian-Style Omelette: Whisked eggs with Italian sausage, mushrooms, and mozzarella cheese ($9.99)
+* Yogurt Parfait: Greek yogurt with granola and mixed berries ($6.99)
+* Espresso and Cornetto: A strong shot of espresso paired with a cornetto ($3.99)
+* Breakfast Burrito: Scrambled eggs, Italian sausage, and mozzarella cheese wrapped in a tortilla ($8.99)
+* Croissant and Jam: A flaky croissant paired with a side of jam ($5.99)
+* Italian-Style Waffles: Waffles with Italian sausage, maple syrup, and whipped cream ($10.99)
+
+**Lunch Menu**
+
+* Spaghetti Bolognese: Spaghetti with a rich meat-based sauce and parmesan cheese ($14.99)
+* Chicken Parmesan: Breaded and fried chicken topped with marinara sauce and melted mozzarella cheese ($12.99)
+* Caprese Salad: A fresh salad of tomatoes, mozzarella cheese, and basil ($10.99)
+* Italian-Style Sub: A sub sandwich with salami, ham, pepperoni, and provolone cheese ($11.99)
+* Bruschetta: Toasted bread with diced tomatoes, basil, and mozzarella cheese ($8.99)
+* Grilled Chicken Caesar Salad: Romaine lettuce, grilled chicken, and parmesan cheese tossed in a Caesar dressing ($13.99)
+* Meatball Sub: A sub sandwich with meatballs, marinara sauce, and melted mozzarella cheese ($12.99)
+* Italian-Style Panino: A panino sandwich with salami, ham, pepperoni, and provolone cheese ($11.99)
+* Vegetarian Lasagna: A layered lasagna with ricotta cheese, spinach, and mozzarella cheese ($12.99)
+* Italian-Style Soup: A hearty soup made with vegetables and beans ($7.99)
+* Chicken Fettuccine Alfredo: Fettuccine pasta tossed in a creamy Alfredo sauce with grilled chicken ($15.99)
+* Italian-Style Wrap: A wrap sandwich with salami, ham, pepperoni, and provolone cheese ($11.99)
+* Grilled Panino: A panino sandwich with grilled chicken, marinara sauce, and melted mozzarella cheese ($12.99)
+* Italian-Style Quesadilla: A quesadilla with salami, ham, pepperoni, and provolone cheese ($12.99)
+* Caprese Panino: A panino sandwich with fresh tomatoes, mozzarella cheese, and basil ($11.99)
+* Italian-Style Tacos: Tacos with salami, ham, pepperoni, and provolone cheese ($12.99)
+
+**Dinner Menu**
+
+* Spaghetti Carbonara: Spaghetti with a rich and creamy sauce made with bacon, eggs, and parmesan cheese ($16.99)
+* Chicken Marsala: Grilled chicken with Marsala wine and mushrooms ($18.99)
+* Vegetarian Eggplant Parmesan: Breaded and fried eggplant topped with marinara sauce and melted mozzarella cheese ($17.99)
+* Italian-Style Steak: Grilled steak with a side of garlic butter and parmesan cheese ($25.99)
+* Seafood Risotto: A creamy risotto with shrimp, scallops, and mussels ($28.99)
+* Chicken Piccata: Grilled chicken with a lemon-caper sauce and parmesan cheese ($19.99)
+* Italian-Style Pork Chops: Grilled pork chops with a side of garlic butter and parmesan cheese ($22.99)
+* Vegetarian Lasagna: A layered lasagna with ricotta cheese, spinach, and mozzarella cheese ($18.99)
+* Italian-Style Shrimp Scampi: Shrimp sautéed with garlic, lemon, and parsley ($20.99)
+* Chicken Fettuccine Alfredo: Fettuccine pasta tossed in a creamy Alfredo sauce with grilled chicken ($19.99)
+* Italian-Style Meatballs: Meatballs with a side of marinara sauce and melted mozzarella cheese ($18.99)
+* Vegetarian Eggplant Rollatini: Breaded and fried eggplant rolls with marinara sauce and melted mozzarella cheese ($19.99)
+* Italian-Style Chicken Parmesan: Breaded and fried chicken topped with marinara sauce and melted mozzarella cheese ($20.99)
+* Seafood Paella: A traditional Spanish dish with shrimp, scallops, and mussels ($29.99)
+* Italian-Style Steak Frites: Grilled steak with a side of garlic butter and parmesan cheese, served with fries ($26.99)
+* Vegetarian Stuffed Portobello Mushrooms: Portobello mushrooms stuffed with ricotta cheese, spinach, and mozzarella cheese ($18.99)
+* Italian-Style Chicken Cacciatore: Grilled chicken with onions, bell peppers, and mushrooms ($19.99)
+* Seafood Linguine: Linguine pasta tossed with shrimp, scallops, and mussels ($24.99)
+* Italian-Style Pork Tenderloin: Grilled pork tenderloin with a side of garlic butter and parmesan cheese ($23.99)
+* Vegetarian Eggplant Parmesan: Breaded and fried eggplant topped with marinara sauce and melted mozzarella cheese ($19.99)
+* Italian-Style Chicken Marsala: Grilled chicken with Marsala wine and mushrooms ($20.99)
+* Seafood Risotto: A creamy risotto with shrimp, scallops, and mussels ($29.99)
+* Italian-Style Steak au Poivre: Grilled steak with a side of garlic butter and parmesan cheese ($27.99)
+* Vegetarian Stuffed Zucchini: Zucchini stuffed with ricotta cheese, spinach, and mozzarella cheese ($18.99)
+* Italian-Style Chicken Piccata: Grilled chicken with a lemon-caper sauce and parmesan cheese ($20.99)
