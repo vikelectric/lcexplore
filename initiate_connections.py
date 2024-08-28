@@ -1,20 +1,21 @@
 from langchain_groq import ChatGroq
 import os
-#import json
-import streamlit as st
+import json
+#import streamlit as st
 
 # get working directory of the actual strteamlit environment
 working_dir = os.path.dirname(os.path.abspath(__file__))
 
-'''
+
 #read the config file for API Key(s)
 config_data = json.load(open(f"{working_dir}/config.json"))
 
 GROQ_API_KEY = config_data["GROQ_API_KEY"]
-'''
 
+'''
 #read the config file for API Key(s) --- STREAMLIT Version
 GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
+'''
 
 
 
