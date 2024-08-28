@@ -23,8 +23,8 @@ GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
 os.environ["GROQ_API_KEY"] = GROQ_API_KEY
 
 llm = ChatGroq(
-    model="llama-3.1-8b-instant",
-    #model="llama-3.1-70b-versatile",
+    #model="llama-3.1-8b-instant",
+    model="llama-3.1-70b-versatile",
     temperature=0.0,
     max_retries=2,
     # other params...
